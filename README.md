@@ -1,6 +1,4 @@
-<h1 align="center">I'm <a href="https://luis-fernando-wicho.github.io/Portafolio-wichodev/">Luis Fernando</a></h1>
-
-## Hi, I'm Luis Fernando 👋
+<h1 align="center">Hi, I'm <a text-decoration="none" font-weight="bold" color="black" href="https://luis-fernando-wicho.github.io/Portafolio-wichodev/">Luis Fernando �</a></h1>
 
 <!--
 **Luis-Fernando-wicho/Luis-Fernando-wicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
